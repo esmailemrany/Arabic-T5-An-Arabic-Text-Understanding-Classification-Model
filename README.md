@@ -127,17 +127,19 @@ Total| 270,107| 100%
 
 Project Screenshots
 
-Explore the project interface and examples of its Arabic news classification outputs.
+The following screenshots demonstrate the project interface and classification results.
 
 <p align="center">
-  <img src="./%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-10-29%20154621.png" width="90%" alt="Arabic T5 Project Screenshot 1">
+  <img src="assets/screenshot-1.png" width="90%" alt="Arabic T5 Screenshot 1">
 </p><p align="center">
-  <img src="./%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-10-29%20154831.png" width="90%" alt="Arabic T5 Project Screenshot 2">
+  <img src="assets/screenshot-2.png" width="90%" alt="Arabic T5 Screenshot 2">
 </p><p align="center">
-  <img src="./%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-10-29%20155721.png" width="90%" alt="Arabic T5 Project Screenshot 3">
+  <img src="assets/screenshot-3.png" width="90%" alt="Arabic T5 Screenshot 3">
 </p><p align="center">
-  <img src="./%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-10-29%20155924.png" width="90%" alt="Arabic T5 Project Screenshot 4">
+  <img src="assets/screenshot-4.png" width="90%" alt="Arabic T5 Screenshot 4">
 </p>
+
+
 Project Workflow
 
        Al Ain News
