@@ -1,0 +1,10 @@
+torch
+transformers
+tokenizers
+sentencepiece
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
