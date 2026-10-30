@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# Model Checkpoints
+checkpoints/
+runs/
+wandb/
+
+# Temporary Files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database Temporary Files
+*.db-shm
+*.db-wal
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Large Model Files
+*.safetensors
+*.onnx
